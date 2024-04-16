@@ -4,7 +4,7 @@ You have been hired as a data analyst at a data consulting firm called Automatid
 
 Automatidata is consulting for the New York City Taxi and Limousine Commission (TLC). New York City TLC is an agency responsible for licensing and regulating New York City's taxi cabs and for-hire vehicles. The agency has partnered with Automatidata to develop a regression model that helps estimate taxi fares before the ride, based on data that TLC has gathered. The TLC data comes from over 200,000 taxi and limousine licensees, making approximately one million combined trips per day.
 
-The members of Automatidata and the New York City TLC Automatidata Team Members:
+__The members of Automatidata and the New York City TLC Automatidata Team Members:__
 
 Udo Bankole, Director of Data Analysis
 
@@ -14,9 +14,9 @@ Luana Rodriquez, Senior Data Analyst
 
 Uli King, Senior Project Manager
 
+</br>
 
-
-New York City TLC Team Members:
+__New York City TLC Team Members:__
 
 Juliana Soto, Finance and Administration Department Head
 
