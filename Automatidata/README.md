@@ -40,3 +40,7 @@ This step involves exploring the project data and implement a hypothesis test. T
 
 # 5. Regression Analysis
 Finally, we determine the correct modelling approach and build a regression model. We check the model assumptions and evaluate the model performance. The model results are then interpreted and summarized findings are shared with the stakeholders.
+
+# Based on our report, NYC TLC wants us to design a machine learning model to predict whether customers would be generous or not with tipping. This could help taxi drivers in the long run.
+# 6. Machine Learning:
+In this part of a new objective related to the project, we explore Random Forest Classifier and XGboost as the two machine learning algorithms. We compare which model works well for case and propose a model with efficient hyperparameters.
