@@ -28,11 +28,11 @@ Titus Nelson, Operations Manager
 
 The first part of the project involves planning for the data project and create a project proposal. We create a PACE framework in this step to organize and plan our next steps.
 
-# 2. Python as the tool
+# 2. Python as the Tool
 
 In this project, we will use python as our programming tool due to it being easy to use and powerful to apply. Using python, we can understand the data at a glance in our early steps. We will perform tasks like building a TLC dataset, examine data type of the features provided and gather descriptive statistics of the dataframe. We will prepare the data to be ready for exploratory data analysis which is the next step.
 
-# 3. Exploratory data Analysis (EDA)
+# 3. Exploratory Data Analysis (EDA)
 In this stage, we perform EDA and data cleaning. We also build certain visualizations to understand the relationships between relevant variables. We, then, share the results with Automatidata team.
 
 # 4. Statistical Analysis
