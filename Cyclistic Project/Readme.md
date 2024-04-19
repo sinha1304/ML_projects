@@ -52,4 +52,4 @@ key business questions, you will folow the steps of the data analysis process: a
  2. Why would casual riders buy Cyclistic annual memberships?
  3. How can Cyclistic use digital media to influence casual riders to become members?
  
-Raw data available here :(https://divvy-tripdata.s3.amazonaws.com/index.html). The data has been made available by Motivate International Inc under this licence (https://www.divvybikes.com/data-license-agreement).
+Raw data available here :(https://divvy-tripdata.s3.amazonaws.com/index.html). The data has been made available by Motivate International Inc under this license (https://www.divvybikes.com/data-license-agreement).
