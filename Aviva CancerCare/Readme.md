@@ -7,9 +7,13 @@ In response to this critical need, Aviva CancerCare has partnered with us to lev
 Through this project, we aim to achieve several key objectives:
 
 **Early Detection**: By automating the classification process, we aim to enable the early detection of breast cancer, thereby facilitating prompt medical interventions and improving patient outcomes.
+
 **Precision Medicine**: The development of an accurate classification model will enable healthcare professionals to tailor treatment plans according to the specific characteristics of each patient's cancer, promoting the delivery of personalized and targeted therapies.
+
 **Resource Optimization**: By streamlining the diagnostic process, our model will assist healthcare providers in optimizing resource allocation and enhancing operational efficiency within clinical settings.
+
 **Empowering Patients**: Timely diagnosis empowers patients with the knowledge and resources needed to make informed decisions about their healthcare journey, leading to better overall outcomes and quality of life.
+
 As we embark on this journey, we invite collaboration and feedback from stakeholders, including healthcare professionals, researchers, and patients, to ensure the development of a model that meets the highest standards of accuracy, reliability, and ethical considerations.
 
 Together, we aspire to make meaningful strides in the fight against breast cancer, transforming the landscape of diagnosis and treatment through the innovative application of machine learning technology. Thank you for joining us on this important endeavor.
