@@ -1,3 +1,4 @@
+### THIS IS A CASE STUDY BASED ON HYPOTHETICAL SCENARIO
 # Socio-Economic and Healthcare Indexing for Efficient Resource Allocation: A Data Science Approach for WHO
 
 ## Objective
