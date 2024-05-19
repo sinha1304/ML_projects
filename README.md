@@ -1,5 +1,5 @@
 # ML_projects
-Projects based on machine learning
+Projects based on data analysis and machine learning
 
 
 ## 1. Automadidata: 
