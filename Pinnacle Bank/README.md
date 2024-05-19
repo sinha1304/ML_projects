@@ -25,7 +25,7 @@ The "Bank Loan Performance Analysis and Dashboard Development" project aims to a
    - Include key metrics such as the number of good vs. bad loans, default rates, loan distribution by region, borrower demographics, and more.
    - Provide filtering options to allow users to drill down into specific segments of the data.
 
-### Expected Outcomes:
+### Outcomes:
 - **Interactive Dashboard**: A user-friendly, interactive dashboard in Tableau that allows bank stakeholders to visualize and explore loan data effectively.
 - **Insightful Reports**: Detailed reports on the factors influencing loan performance, supported by SQL query results.
 - **Actionable Insights**: Identification of high-risk areas and borrower profiles to inform future lending strategies and risk management practices.
