@@ -1,1 +1,1 @@
-Bank loan Status
+Pinnable bank has asked you as their data analyst to draw insights from their dataset of previous loans given to customers. Help them visualize trends in different categories of loans which can be shown to the stakeholders.
