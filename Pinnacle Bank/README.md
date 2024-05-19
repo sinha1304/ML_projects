@@ -13,7 +13,7 @@ The "Bank Loan Performance Analysis and Dashboard Development" project aims to a
 
 ### Methodology:
 1. **Data Collection**: Gather comprehensive loan data from various bank branches across the United States. This data includes loan amount, term, interest rate, borrower details (e.g., credit score, income), repayment status, and other relevant variables.
-2. **Data Cleaning and Preparation**: Clean and preprocess the data to handle missing values, outliers, and inconsistencies using SQL for data manipulation and ensuring data quality.
+2. **Data Cleaning and Preparation**: Clean and preprocess the data to handle missing values, outliers, and inconsistencies using SQL for data manipulation and ensuring data quality. The early data cleaning and preparation showed that the data looks okay besides some missing value in "emp_title". Since this feature is not important for our purpose, we can proceed with the data file.
 3. **Data Analysis**:
    - Perform exploratory data analysis (EDA) using SQL to uncover initial insights and patterns.
    - Use SQL queries to identify factors influencing loan performance.
