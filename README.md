@@ -8,7 +8,7 @@ This project is related to a company called Automatidata who has been hired by N
 ## 2. Aviva CancerCare:
 This project involves using data from previous breast cancer cases to design a machine learning model that can classify breast cancer as benign or malignant.
 
-## 3. Cyclistic Project:
+## 3. Cyclistic Project (Excel and Power Query):
 You are a junior data analyst who has been assassinged by a bike sharing company to look over their old data and draw conclusion how the casual and membership users use bikes differently. The goal is to get more casual users to become members.
 
 ## 4. Pinnacle Bank (Tableau + SQL):
